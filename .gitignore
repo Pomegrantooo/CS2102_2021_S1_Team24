@@ -1,0 +1,12 @@
+# Vim backup
+*.un~
+
+# Information on project
+ER+Diagram.pptx
+GitItRight.pptx
+project.pdf
+
+# library dependencies
+node_modules/
+
+.vscode/
